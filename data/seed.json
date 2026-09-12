@@ -1,0 +1,42 @@
+{
+  "subject": "6th grade math — adding fractions with unlike denominators",
+  "question": "1/2 + 1/3 = ?",
+  "correct_answer": "5/6",
+  "responses": [
+    { "student": "Maya",   "answer": "5/6", "work": "3/6 + 2/6 = 5/6" },
+    { "student": "Sofia",  "answer": "5/6", "work": "LCD 6; 3/6 + 2/6 = 5/6" },
+    { "student": "Amara",  "answer": "5/6", "work": "3/6 + 2/6" },
+    { "student": "Dev",    "answer": "5/6", "work": "" },
+    { "student": "Ines",   "answer": "5/6", "work": "3/6+2/6=5/6" },
+    { "student": "Tobias", "answer": "5/6", "work": "" },
+    { "student": "Nadia",  "answer": "5/6", "work": "common denom 6" },
+    { "student": "Ruth",   "answer": "5/6", "work": "3/6 + 2/6 = 5/6" },
+
+    { "student": "Jake",   "answer": "2/5", "work": "1+1=2, 2+3=5" },
+    { "student": "Ben",    "answer": "2/5", "work": "top plus top, bottom plus bottom" },
+    { "student": "Carlos", "answer": "2/5", "work": "1+1 over 2+3" },
+    { "student": "Hana",   "answer": "2/5", "work": "2 over 5" },
+    { "student": "Omar",   "answer": "2/5", "work": "1+1=2 and 2+3=5" },
+    { "student": "Zoe",    "answer": "2/5", "work": "added straight across" },
+
+    { "student": "Priya",  "answer": "1/6", "work": "1x1=1, 2x3=6" },
+    { "student": "Leo",    "answer": "1/6", "work": "times the tops, times the bottoms" },
+    { "student": "Yuki",   "answer": "1/6", "work": "1*1 over 2*3" },
+    { "student": "Marco",  "answer": "1/6", "work": "multiplied" },
+    { "student": "Aisha",  "answer": "1/6", "work": "1x1/2x3" },
+
+    { "student": "Ravi",   "answer": "2/6", "work": "LCD is 6 so 1/6 + 1/6 = 2/6" },
+    { "student": "Elena",  "answer": "2/6", "work": "both become sixths, 1/6+1/6" },
+    { "student": "Samir",  "answer": "2/6", "work": "denominator 6, 1+1 on top" },
+    { "student": "Kofi",   "answer": "1/3", "work": "1/6 + 1/6 = 2/6 = 1/3" },
+    { "student": "Lina",   "answer": "1/3", "work": "changed to sixths, 2/6, simplified" },
+    { "student": "Noor",   "answer": "1/3", "work": "2/6 reduces to 1/3" },
+
+    { "student": "Tariq",  "answer": "1/6", "work": "3/6 - 2/6 = 1/6" },
+    { "student": "Mei",    "answer": "1/6", "work": "3/6 take away 2/6" },
+    { "student": "Diego",  "answer": "1/6", "work": "LCD 6, then 3-2=1" },
+    { "student": "Hannah", "answer": "1/6", "work": "3/6 minus 2/6" },
+
+    { "student": "Felix",  "answer": "5/7", "work": "3/6 + 2/6 = 5/7" }
+  ]
+}
